@@ -39,6 +39,7 @@ h1 {
     border-radius: 1rem;
     overflow: hidden;
     box-shadow: 0px 26px 21px #dfdffa;
+    line-height: 1.5;
 }
 
 .item-1 {
